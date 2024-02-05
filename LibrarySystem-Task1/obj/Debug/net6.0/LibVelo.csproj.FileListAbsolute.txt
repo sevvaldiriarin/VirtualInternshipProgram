@@ -1,0 +1,15 @@
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\LibVelo.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\LibVelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\LibVelo.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\LibVelo.AssemblyInfo.cs
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\LibVelo.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\LibVelo\bin\Debug\net6.0\LibVelo.exe
+C:\Users\admin\source\repos\LibVelo\bin\Debug\net6.0\LibVelo.deps.json
+C:\Users\admin\source\repos\LibVelo\bin\Debug\net6.0\LibVelo.runtimeconfig.json
+C:\Users\admin\source\repos\LibVelo\bin\Debug\net6.0\LibVelo.dll
+C:\Users\admin\source\repos\LibVelo\bin\Debug\net6.0\LibVelo.pdb
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\LibVelo.dll
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\refint\LibVelo.dll
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\LibVelo.pdb
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\LibVelo.genruntimeconfig.cache
+C:\Users\admin\source\repos\LibVelo\obj\Debug\net6.0\ref\LibVelo.dll
